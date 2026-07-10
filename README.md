@@ -25,9 +25,6 @@ I enjoy building predictive models, exploring deep learning architectures, worki
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Machine Learning & AI
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-22C55E?style=for-the-badge)
@@ -39,13 +36,10 @@ I enjoy building predictive models, exploring deep learning architectures, worki
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib%20%2F%20Seaborn-06B6D4?style=for-the-badge)
 
 ### Tools & Databases
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -67,7 +61,7 @@ I enjoy building predictive models, exploring deep learning architectures, worki
 ## Education
 
 **B.E. in Computer Engineering**  
-2022 - 2026  
+2023 - 2027 
 
 Focused on Machine Learning, Data Science, and Artificial Intelligence coursework.
 
@@ -76,11 +70,11 @@ Focused on Machine Learning, Data Science, and Artificial Intelligence coursewor
 ## Experience
 
 **Data Science Intern**  
-Jan 2026 - Present  
+Jun 2026 - Present  
 
 Working on ML model development, data analysis, predictive dashboards, and ETL pipeline collaboration.
 
-**Technologies:** Python, Pandas, Scikit-learn, SQL, Power BI
+**Technologies:** Python, Pandas, Scikit-learn
 
 ---
 
