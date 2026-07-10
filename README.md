@@ -78,20 +78,6 @@ Working on ML model development, data analysis, predictive dashboards, and ETL p
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vatsaldhuvad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaldhuvad&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsaldhuvad&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Thanks for visiting my profile
